@@ -1,4 +1,4 @@
-# 💊 Medicine Reminder System
+  # 💊 Medicine Reminder System
 
 ### A Console-Based Application Using C Programming
 
@@ -89,3 +89,22 @@ It also gave me practical experience in debugging and developing a complete cons
 
 **Note:** This project is intended for educational purposes. It displays saved medicine schedules but does not currently provide automatic notifications or medical advice.# Medicine_Reminder_System_Final_project
 A console-based Medicine Reminder System developed using C programming.
+
+
+## 📸 Project Screenshots
+
+Below are screenshots showing the working output of the Medicine Reminder System.
+
+![Project Output 1](Screenshot%202026-11-18%20233343.png)
+
+![Project Output 2](Screenshot%202026-11-18%20233416.png)
+
+![Project Output 3](Screenshot%202026-11-18%20233447.png)
+
+![Project Output 4](Screenshot%202026-11-18%20233723.png)
+
+![Project Output 5](Screenshot%202026-11-18%20233842.png)
+
+![Project Output 6](Screenshot%202026-11-18%20233916.png)
+
+![Project Output 7](Screenshot%202026-11-18%20233935.png)
